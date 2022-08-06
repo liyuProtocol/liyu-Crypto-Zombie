@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/liyu-Crypto-Zombie/static/css/main.74d05a19.chunk.css",
+    "main.js": "/liyu-Crypto-Zombie/static/js/main.e647d968.chunk.js",
+    "main.js.map": "/liyu-Crypto-Zombie/static/js/main.e647d968.chunk.js.map",
+    "runtime-main.js": "/liyu-Crypto-Zombie/static/js/runtime-main.3359feef.js",
+    "runtime-main.js.map": "/liyu-Crypto-Zombie/static/js/runtime-main.3359feef.js.map",
+    "static/js/2.b334f2d2.chunk.js": "/liyu-Crypto-Zombie/static/js/2.b334f2d2.chunk.js",
+    "static/js/2.b334f2d2.chunk.js.map": "/liyu-Crypto-Zombie/static/js/2.b334f2d2.chunk.js.map",
+    "index.html": "/liyu-Crypto-Zombie/index.html",
+    "precache-manifest.72f4354d22d5611b2a6e5fa254b0e542.js": "/liyu-Crypto-Zombie/precache-manifest.72f4354d22d5611b2a6e5fa254b0e542.js",
+    "service-worker.js": "/liyu-Crypto-Zombie/service-worker.js",
+    "static/css/main.74d05a19.chunk.css.map": "/liyu-Crypto-Zombie/static/css/main.74d05a19.chunk.css.map",
+    "static/js/2.b334f2d2.chunk.js.LICENSE": "/liyu-Crypto-Zombie/static/js/2.b334f2d2.chunk.js.LICENSE",
+    "static/media/App.css": "/liyu-Crypto-Zombie/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/liyu-Crypto-Zombie/static/media/zombierun.08087132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3359feef.js",
+    "static/js/2.b334f2d2.chunk.js",
+    "static/css/main.74d05a19.chunk.css",
+    "static/js/main.e647d968.chunk.js"
+  ]
+}
